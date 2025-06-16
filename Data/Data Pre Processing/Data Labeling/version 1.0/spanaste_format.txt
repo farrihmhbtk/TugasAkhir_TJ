@@ -1,0 +1,5 @@
+kantongi tender bus listrik transjakarta vktr pastikan serah terima di#### #### ####[([2, 3], [0, 1], 'POS')]
+hari ini mata berasa pedih bet kena ac terus ga di tj ga di ruangan#### #### ####[([7], [2, 4], 'NEG')]
+pertama kali naik busway nanya ke nyokap soalnya beliau lebih tau walaupun gak bisa ditemenin tapi info yg beliau kasih mudah dimengerti buat gue yg newbie ini#### #### ####[([3], [0, 2], 'NEU'), ([16], [20, 21], 'POS')]
+hari ini ada we the fest kalau naik busway dr grogol ke cawang macet gak ya#### #### ####[([8], [13], 'NEG')]
+kpd pengelola transjakarta mohon adanya kontrol pada busway yg berisik spt pada busway dibaqah ini mur bautnya hilang pada jagak kuning shg berisik demikian tks#### #### ####[([0], [1], 'POS'), ([2], [3], 'NEG')]

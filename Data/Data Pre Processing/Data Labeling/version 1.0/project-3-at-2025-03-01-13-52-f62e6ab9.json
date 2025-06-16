@@ -1,0 +1,600 @@
+[
+    {
+        "id": 1,
+        "annotations": [
+            {
+                "id": 3,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 16,
+                            "end": 27,
+                            "text": "bus listrik",
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "id": "0y41HFambk",
+                        "from_name": "label",
+                        "to_name": "tweet_text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 15,
+                            "text": "kantongi tender",
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "id": "pCllDAirtW",
+                        "from_name": "label",
+                        "to_name": "tweet_text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "0y41HFambk",
+                        "to_id": "pCllDAirtW",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "sent:POS"
+                        ]
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-03-01T05:56:59.491597Z",
+                "updated_at": "2025-03-01T05:56:59.491597Z",
+                "draft_created_at": "2025-03-01T05:56:27.259022Z",
+                "lead_time": 53.054,
+                "prediction": {},
+                "result_count": 3,
+                "unique_id": "6cd50672-f496-441e-9f5c-a061e2abe9c0",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 1,
+                "project": 3,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "090810a8-tweets_ready_to_be_labeled_v1.0.csv",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "conversation_id_str": 1.85e+18,
+            "created_at_original": "Fri Oct 25 18:06:07 +0000 2024",
+            "favorite_count": 1,
+            "full_text": "Kantongi Tender 20 Bus Listrik Transjakarta VKTR Pastikan Serah Terima di 2024 https:\/\/t.co\/P6PNxwgnqS",
+            "id_str": 1.85e+18,
+            "image_url": "",
+            "in_reply_to_screen_name": "",
+            "lang": "in",
+            "location": "Jakarta Capital Region",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "tweet_url": "https:\/\/x.com\/idx_channel\/status\/1849875100335735165",
+            "user_id_str": 4755284968.0,
+            "username": "idx_channel",
+            "created_at_formated": "10\/25\/2024 18:06",
+            "original_tweet": "Kantongi Tender 20 Bus Listrik Transjakarta VKTR Pastikan Serah Terima di 2024 https:\/\/t.co\/P6PNxwgnqS",
+            "cleaned_full_text": "kantongi tender bus listrik transjakarta vktr pastikan serah terima di"
+        },
+        "meta": {},
+        "created_at": "2025-03-01T05:54:35.452160Z",
+        "updated_at": "2025-03-01T05:56:59.533196Z",
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 3,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 2,
+        "annotations": [
+            {
+                "id": 4,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 36,
+                            "end": 38,
+                            "text": "ac",
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "id": "627rd-gvLv",
+                        "from_name": "label",
+                        "to_name": "tweet_text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 9,
+                            "end": 26,
+                            "text": "mata berasa pedih",
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "id": "PpPaIGO1hL",
+                        "from_name": "label",
+                        "to_name": "tweet_text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "627rd-gvLv",
+                        "to_id": "PpPaIGO1hL",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "sent:NEG"
+                        ]
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-03-01T05:58:34.437524Z",
+                "updated_at": "2025-03-01T05:58:34.437524Z",
+                "draft_created_at": "2025-03-01T05:57:43.060989Z",
+                "lead_time": 87.264,
+                "prediction": {},
+                "result_count": 3,
+                "unique_id": "50fa848d-c2d8-430f-bf39-7716dea6e37d",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 2,
+                "project": 3,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "090810a8-tweets_ready_to_be_labeled_v1.0.csv",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "conversation_id_str": 1.82e+18,
+            "created_at_original": "Mon Aug 05 03:53:41 +0000 2024",
+            "favorite_count": 0,
+            "full_text": "Hari ini mata berasa pedih bet kena AC terus ga di TJ ga di ruangan",
+            "id_str": 1.82e+18,
+            "image_url": "",
+            "in_reply_to_screen_name": "",
+            "lang": "in",
+            "location": "Scuderia Ferrari HQ, Maranello",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "tweet_url": "https:\/\/x.com\/frz_nnda\/status\/1820307159365697564",
+            "user_id_str": 194894757.0,
+            "username": "frz_nnda",
+            "created_at_formated": "8\/5\/2024 3:53",
+            "original_tweet": "Hari ini mata berasa pedih bet kena AC terus ga di TJ ga di ruangan",
+            "cleaned_full_text": "hari ini mata berasa pedih bet kena ac terus ga di tj ga di ruangan"
+        },
+        "meta": {},
+        "created_at": "2025-03-01T05:54:35.452160Z",
+        "updated_at": "2025-03-01T05:58:34.483796Z",
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 3,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 3,
+        "annotations": [
+            {
+                "id": 5,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 18,
+                            "end": 24,
+                            "text": "busway",
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "id": "ssI78v4ojz",
+                        "from_name": "label",
+                        "to_name": "tweet_text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 17,
+                            "text": "pertama kali naik",
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "id": "PfMLswXRkH",
+                        "from_name": "label",
+                        "to_name": "tweet_text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 99,
+                            "end": 103,
+                            "text": "info",
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "id": "Pn9El4IdiX",
+                        "from_name": "label",
+                        "to_name": "tweet_text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 120,
+                            "end": 136,
+                            "text": "mudah dimengerti",
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "id": "BTpvTxXBFC",
+                        "from_name": "label",
+                        "to_name": "tweet_text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "ssI78v4ojz",
+                        "to_id": "PfMLswXRkH",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "sent:NEU"
+                        ]
+                    },
+                    {
+                        "from_id": "Pn9El4IdiX",
+                        "to_id": "BTpvTxXBFC",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "sent:POS"
+                        ]
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-03-01T06:02:05.206904Z",
+                "updated_at": "2025-03-01T06:50:08.989859Z",
+                "draft_created_at": "2025-03-01T05:59:04.467529Z",
+                "lead_time": 310.572,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "aca2f1f4-e0c1-4eff-a1af-5275bce5b3cc",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 3,
+                "project": 3,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "090810a8-tweets_ready_to_be_labeled_v1.0.csv",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "conversation_id_str": 1.87e+18,
+            "created_at_original": "Mon Dec 16 05:35:43 +0000 2024",
+            "favorite_count": 0,
+            "full_text": "Pertama kali naik busway nanya ke nyokap soalnya beliau lebih tau. Walaupun gak bisa ditemenin tapi info yg beliau kasih mudah dimengerti buat gue yg newbie ini. https:\/\/t.co\/dyJlgMKYlh",
+            "id_str": 1.87e+18,
+            "image_url": "https:\/\/pbs.twimg.com\/media\/Ge5ag0ZaIAA-smp.jpg",
+            "in_reply_to_screen_name": "",
+            "lang": "in",
+            "location": "",
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0,
+            "tweet_url": "https:\/\/x.com\/sumberdaye\/status\/1868530424370401357",
+            "user_id_str": 1.25e+18,
+            "username": "sumberdaye",
+            "created_at_formated": "12\/16\/2024 5:35",
+            "original_tweet": "Pertama kali naik busway nanya ke nyokap soalnya beliau lebih tau. Walaupun gak bisa ditemenin tapi info yg beliau kasih mudah dimengerti buat gue yg newbie ini. https:\/\/t.co\/dyJlgMKYlh",
+            "cleaned_full_text": "pertama kali naik busway nanya ke nyokap soalnya beliau lebih tau walaupun gak bisa ditemenin tapi info yg beliau kasih mudah dimengerti buat gue yg newbie ini"
+        },
+        "meta": {},
+        "created_at": "2025-03-01T05:54:35.452160Z",
+        "updated_at": "2025-03-01T06:50:09.064531Z",
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 3,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 4,
+        "annotations": [
+            {
+                "id": 6,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 36,
+                            "end": 42,
+                            "text": "busway",
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "id": "n-F0GgNAN-",
+                        "from_name": "label",
+                        "to_name": "tweet_text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 63,
+                            "end": 68,
+                            "text": "macet",
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "id": "Vsm0LGuIQ1",
+                        "from_name": "label",
+                        "to_name": "tweet_text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "n-F0GgNAN-",
+                        "to_id": "Vsm0LGuIQ1",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "sent:NEG"
+                        ]
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-03-01T06:50:55.325720Z",
+                "updated_at": "2025-03-01T06:50:55.325720Z",
+                "draft_created_at": "2025-03-01T06:50:29.209899Z",
+                "lead_time": 42.594,
+                "prediction": {},
+                "result_count": 3,
+                "unique_id": "b002ded7-2919-4e92-b84b-60f50c9a7c83",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 4,
+                "project": 3,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "090810a8-tweets_ready_to_be_labeled_v1.0.csv",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "conversation_id_str": 1.81e+18,
+            "created_at_original": "Fri Jul 19 23:01:31 +0000 2024",
+            "favorite_count": 0,
+            "full_text": "Hari ini ada we the fest kalau naik busway dr grogol ke cawang macet gak ya?",
+            "id_str": 1.81e+18,
+            "image_url": "",
+            "in_reply_to_screen_name": "",
+            "lang": "in",
+            "location": "",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "tweet_url": "https:\/\/x.com\/biforsytheIII\/status\/1814435427904041325",
+            "user_id_str": 1.08e+18,
+            "username": "biforsytheIII",
+            "created_at_formated": "7\/19\/2024 23:01",
+            "original_tweet": "Hari ini ada we the fest kalau naik busway dr grogol ke cawang macet gak ya?",
+            "cleaned_full_text": "hari ini ada we the fest kalau naik busway dr grogol ke cawang macet gak ya"
+        },
+        "meta": {},
+        "created_at": "2025-03-01T05:54:35.452160Z",
+        "updated_at": "2025-03-01T06:50:55.375626Z",
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 3,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 5,
+        "annotations": [
+            {
+                "id": 7,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 3,
+                            "text": "kpd",
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "id": "9gxEqsk6n6",
+                        "from_name": "label",
+                        "to_name": "tweet_text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 4,
+                            "end": 13,
+                            "text": "pengelola",
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "id": "EE2Uta3vfm",
+                        "from_name": "label",
+                        "to_name": "tweet_text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 14,
+                            "end": 26,
+                            "text": "transjakarta",
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "id": "t-lUDyE9jM",
+                        "from_name": "label",
+                        "to_name": "tweet_text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 27,
+                            "end": 32,
+                            "text": "mohon",
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "id": "odWtMbgLBh",
+                        "from_name": "label",
+                        "to_name": "tweet_text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "9gxEqsk6n6",
+                        "to_id": "EE2Uta3vfm",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "sent:POS"
+                        ]
+                    },
+                    {
+                        "from_id": "t-lUDyE9jM",
+                        "to_id": "odWtMbgLBh",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "sent:NEG"
+                        ]
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-03-01T06:52:13.160479Z",
+                "updated_at": "2025-03-01T06:52:13.160479Z",
+                "draft_created_at": "2025-03-01T06:51:30.061808Z",
+                "lead_time": 75.753,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "6f831e67-71cd-4b86-a5f6-bd26556894da",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 5,
+                "project": 3,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "090810a8-tweets_ready_to_be_labeled_v1.0.csv",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "conversation_id_str": 1.82e+18,
+            "created_at_original": "Mon Jul 22 01:30:02 +0000 2024",
+            "favorite_count": 1,
+            "full_text": "Kpd pengelola transjakarta @PT_Transjakarta mohon adanya kontrol pada busway yg berisik spt pada busway dibaqah ini mur bautnya hilang pada jagak kuning shg berisik. Demikian tks https:\/\/t.co\/GQFpZOnhgZ",
+            "id_str": 1.82e+18,
+            "image_url": "https:\/\/pbs.twimg.com\/media\/GTDgklvaUAA35Zh.jpg",
+            "in_reply_to_screen_name": "",
+            "lang": "in",
+            "location": "",
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0,
+            "tweet_url": "https:\/\/x.com\/Massthoms\/status\/1815197579027845591",
+            "user_id_str": 1.51e+18,
+            "username": "Massthoms",
+            "created_at_formated": "7\/22\/2024 1:30",
+            "original_tweet": "Kpd pengelola transjakarta @PT_Transjakarta mohon adanya kontrol pada busway yg berisik spt pada busway dibaqah ini mur bautnya hilang pada jagak kuning shg berisik. Demikian tks https:\/\/t.co\/GQFpZOnhgZ",
+            "cleaned_full_text": "kpd pengelola transjakarta mohon adanya kontrol pada busway yg berisik spt pada busway dibaqah ini mur bautnya hilang pada jagak kuning shg berisik demikian tks"
+        },
+        "meta": {},
+        "created_at": "2025-03-01T05:54:35.452160Z",
+        "updated_at": "2025-03-01T06:52:13.202578Z",
+        "inner_id": 5,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 3,
+        "updated_by": 1,
+        "comment_authors": []
+    }
+]

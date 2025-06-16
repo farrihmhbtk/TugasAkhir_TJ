@@ -1,0 +1,816 @@
+[
+    {
+        "id": 6718,
+        "annotations": [
+            {
+                "id": 40,
+                "completed_by": 67807,
+                "result": [
+                    {
+                        "id": "Gyuh3Gc2K1",
+                        "type": "labels",
+                        "value": {
+                            "end": 27,
+                            "start": 16,
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "id": "O6pScMOEGl",
+                        "type": "labels",
+                        "value": {
+                            "end": 15,
+                            "start": 0,
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "type": "relation",
+                        "to_id": "O6pScMOEGl",
+                        "labels": [
+                            "sent:POS"
+                        ],
+                        "from_id": "Gyuh3Gc2K1",
+                        "direction": "right"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-03-08T16:48:53.684898Z",
+                "updated_at": "2025-03-08T16:48:53.684914Z",
+                "draft_created_at": "2025-03-08T16:46:24.541365Z",
+                "lead_time": 170.112,
+                "prediction": {},
+                "result_count": 3,
+                "unique_id": "64b8f3be-3dea-412b-b6dc-3b184d878e9c",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 6718,
+                "project": 16,
+                "updated_by": 67807,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "size": 70,
+            "text": "https:\/\/dagshub.com\/arsyadafarih72\/transjakarta_TA_project\/raw\/main\/data\/datapoints_five\/row_0000.txt",
+            "media type": "text\/plain"
+        },
+        "meta": {
+            "datapoint_id": 85156092,
+            "datasource_id": 4992
+        },
+        "created_at": "2025-03-08T16:39:52.022565Z",
+        "updated_at": "2025-03-08T16:48:53.825523Z",
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 16,
+        "updated_by": 67807,
+        "comment_authors": []
+    },
+    {
+        "id": 6719,
+        "annotations": [
+            {
+                "id": 41,
+                "completed_by": 67807,
+                "result": [
+                    {
+                        "id": "eDJi4VgpE0",
+                        "type": "labels",
+                        "value": {
+                            "end": 38,
+                            "start": 36,
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "id": "y1TvXyA4bA",
+                        "type": "labels",
+                        "value": {
+                            "end": 26,
+                            "start": 9,
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-03-08T16:49:29.677539Z",
+                "updated_at": "2025-03-08T16:49:29.677555Z",
+                "draft_created_at": "2025-03-08T16:49:11.488246Z",
+                "lead_time": 34.329,
+                "prediction": {},
+                "result_count": 2,
+                "unique_id": "d17aa368-dc15-4d6d-8329-34c4249d23be",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 6719,
+                "project": 16,
+                "updated_by": 67807,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "size": 67,
+            "text": "https:\/\/dagshub.com\/arsyadafarih72\/transjakarta_TA_project\/raw\/main\/data\/datapoints_five\/row_0001.txt",
+            "media type": "text\/plain"
+        },
+        "meta": {
+            "datapoint_id": 85156093,
+            "datasource_id": 4992
+        },
+        "created_at": "2025-03-08T16:39:52.022633Z",
+        "updated_at": "2025-03-08T16:49:29.747160Z",
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 16,
+        "updated_by": 67807,
+        "comment_authors": []
+    },
+    {
+        "id": 6720,
+        "annotations": [
+            {
+                "id": 42,
+                "completed_by": 67807,
+                "result": [
+                    {
+                        "id": "3kGuezTApc",
+                        "type": "labels",
+                        "value": {
+                            "end": 103,
+                            "start": 99,
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "id": "2mfllEJoHo",
+                        "type": "labels",
+                        "value": {
+                            "end": 136,
+                            "start": 120,
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "type": "relation",
+                        "to_id": "2mfllEJoHo",
+                        "labels": [
+                            "sent:POS"
+                        ],
+                        "from_id": "3kGuezTApc",
+                        "direction": "right"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-03-08T16:50:40.062414Z",
+                "updated_at": "2025-03-08T16:50:40.062437Z",
+                "draft_created_at": "2025-03-08T16:50:07.564533Z",
+                "lead_time": 68.991,
+                "prediction": {},
+                "result_count": 3,
+                "unique_id": "f327dd21-20ad-4ff4-9f8e-5d4502c0b1d6",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 6720,
+                "project": 16,
+                "updated_by": 67807,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "size": 159,
+            "text": "https:\/\/dagshub.com\/arsyadafarih72\/transjakarta_TA_project\/raw\/main\/data\/datapoints_five\/row_0002.txt",
+            "media type": "text\/plain"
+        },
+        "meta": {
+            "datapoint_id": 85156094,
+            "datasource_id": 4992
+        },
+        "created_at": "2025-03-08T16:39:52.022666Z",
+        "updated_at": "2025-03-08T16:50:40.127830Z",
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 16,
+        "updated_by": 67807,
+        "comment_authors": []
+    },
+    {
+        "id": 6721,
+        "annotations": [
+            {
+                "id": 43,
+                "completed_by": 67807,
+                "result": [
+                    {
+                        "id": "V3CPLZXrEU",
+                        "type": "labels",
+                        "value": {
+                            "end": 62,
+                            "start": 31,
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "id": "bfdaRhh7nj",
+                        "type": "labels",
+                        "value": {
+                            "end": 68,
+                            "start": 63,
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "type": "relation",
+                        "to_id": "bfdaRhh7nj",
+                        "labels": [
+                            "sent:NEG"
+                        ],
+                        "from_id": "V3CPLZXrEU",
+                        "direction": "right"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-03-08T16:53:59.698954Z",
+                "updated_at": "2025-03-08T16:53:59.698972Z",
+                "draft_created_at": "2025-03-08T16:53:40.743809Z",
+                "lead_time": 198.04,
+                "prediction": {},
+                "result_count": 3,
+                "unique_id": "96258425-77d3-4827-bcd8-12d149f6c3f7",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 6721,
+                "project": 16,
+                "updated_by": 67807,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "size": 75,
+            "text": "https:\/\/dagshub.com\/arsyadafarih72\/transjakarta_TA_project\/raw\/main\/data\/datapoints_five\/row_0003.txt",
+            "media type": "text\/plain"
+        },
+        "meta": {
+            "datapoint_id": 85156095,
+            "datasource_id": 4992
+        },
+        "created_at": "2025-03-08T16:39:52.022697Z",
+        "updated_at": "2025-03-08T16:53:59.811208Z",
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 16,
+        "updated_by": 67807,
+        "comment_authors": []
+    },
+    {
+        "id": 6722,
+        "annotations": [
+            {
+                "id": 44,
+                "completed_by": 67807,
+                "result": [
+                    {
+                        "id": "gh49bgmcbI",
+                        "type": "labels",
+                        "value": {
+                            "end": 59,
+                            "start": 53,
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "id": "ZodPISD_hI",
+                        "type": "labels",
+                        "value": {
+                            "end": 70,
+                            "start": 63,
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "id": "lbz0jywC_b",
+                        "type": "labels",
+                        "value": {
+                            "end": 110,
+                            "start": 99,
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "id": "XfveDMwNLu",
+                        "type": "labels",
+                        "value": {
+                            "end": 117,
+                            "start": 111,
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "type": "relation",
+                        "to_id": "ZodPISD_hI",
+                        "labels": [
+                            "sent:NEG"
+                        ],
+                        "from_id": "gh49bgmcbI",
+                        "direction": "right"
+                    },
+                    {
+                        "type": "relation",
+                        "to_id": "XfveDMwNLu",
+                        "labels": [
+                            "sent:NEG"
+                        ],
+                        "from_id": "lbz0jywC_b",
+                        "direction": "right"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-03-08T17:14:14.892548Z",
+                "updated_at": "2025-03-08T17:14:14.892565Z",
+                "draft_created_at": "2025-03-08T17:11:26.310720Z",
+                "lead_time": 1213.623,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "a110a194-fc93-41c3-8f5a-7ef9179a0b9f",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 6722,
+                "project": 16,
+                "updated_by": 67807,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "size": 160,
+            "text": "https:\/\/dagshub.com\/arsyadafarih72\/transjakarta_TA_project\/raw\/main\/data\/datapoints_five\/row_0004.txt",
+            "media type": "text\/plain"
+        },
+        "meta": {
+            "datapoint_id": 85156096,
+            "datasource_id": 4992
+        },
+        "created_at": "2025-03-08T16:39:52.022728Z",
+        "updated_at": "2025-03-08T17:14:14.954361Z",
+        "inner_id": 5,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 16,
+        "updated_by": 67807,
+        "comment_authors": []
+    },
+    {
+        "id": 6723,
+        "annotations": [
+            {
+                "id": 45,
+                "completed_by": 67807,
+                "result": [
+                    {
+                        "id": "hqFZBX7Cmh",
+                        "type": "labels",
+                        "value": {
+                            "end": 5,
+                            "start": 4,
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "id": "TObfkkvTOF",
+                        "type": "labels",
+                        "value": {
+                            "end": 15,
+                            "start": 6,
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "id": "AhgK1Z0Kc6",
+                        "type": "labels",
+                        "value": {
+                            "end": 70,
+                            "start": 58,
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "id": "86DMrqqY5t",
+                        "type": "labels",
+                        "value": {
+                            "end": 51,
+                            "start": 41,
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "type": "relation",
+                        "to_id": "TObfkkvTOF",
+                        "labels": [
+                            "sent:NEG"
+                        ],
+                        "from_id": "hqFZBX7Cmh",
+                        "direction": "right"
+                    },
+                    {
+                        "type": "relation",
+                        "to_id": "86DMrqqY5t",
+                        "labels": [
+                            "sent:NEG"
+                        ],
+                        "from_id": "AhgK1Z0Kc6",
+                        "direction": "right"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-03-08T17:28:06.654172Z",
+                "updated_at": "2025-03-08T17:28:06.654191Z",
+                "draft_created_at": "2025-03-08T17:15:06.557758Z",
+                "lead_time": 830.373,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "303c4535-f7ff-4621-8431-d4fd7f7dffe4",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 6723,
+                "project": 16,
+                "updated_by": 67807,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "size": 98,
+            "text": "https:\/\/dagshub.com\/arsyadafarih72\/transjakarta_TA_project\/raw\/main\/data\/datapoints_five\/row_0005.txt",
+            "media type": "text\/plain"
+        },
+        "meta": {
+            "datapoint_id": 85156097,
+            "datasource_id": 4992
+        },
+        "created_at": "2025-03-08T16:39:52.022758Z",
+        "updated_at": "2025-03-08T17:28:06.725323Z",
+        "inner_id": 6,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 16,
+        "updated_by": 67807,
+        "comment_authors": []
+    },
+    {
+        "id": 6724,
+        "annotations": [
+            {
+                "id": 46,
+                "completed_by": 67807,
+                "result": [
+                    {
+                        "id": "Uff6WhaHEr",
+                        "type": "labels",
+                        "value": {
+                            "end": 103,
+                            "start": 96,
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "id": "m_BK4tcZPZ",
+                        "type": "labels",
+                        "value": {
+                            "end": 140,
+                            "start": 129,
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "id": "SoOKCpO7Er",
+                        "type": "labels",
+                        "value": {
+                            "end": 211,
+                            "start": 201,
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "id": "DfrXuJavHZ",
+                        "type": "labels",
+                        "value": {
+                            "end": 185,
+                            "start": 161,
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "type": "relation",
+                        "to_id": "m_BK4tcZPZ",
+                        "labels": [
+                            "sent:NEG"
+                        ],
+                        "from_id": "Uff6WhaHEr",
+                        "direction": "right"
+                    },
+                    {
+                        "type": "relation",
+                        "to_id": "DfrXuJavHZ",
+                        "labels": [
+                            "sent:NEG"
+                        ],
+                        "from_id": "SoOKCpO7Er",
+                        "direction": "right"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-03-08T17:30:54.506309Z",
+                "updated_at": "2025-03-08T17:30:54.506328Z",
+                "draft_created_at": "2025-03-08T17:30:03.636223Z",
+                "lead_time": 165.997,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "12bfc38b-4af1-4b42-8f97-fdc6199d6241",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 6724,
+                "project": 16,
+                "updated_by": 67807,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "size": 242,
+            "text": "https:\/\/dagshub.com\/arsyadafarih72\/transjakarta_TA_project\/raw\/main\/data\/datapoints_five\/row_0006.txt",
+            "media type": "text\/plain"
+        },
+        "meta": {
+            "datapoint_id": 85156098,
+            "datasource_id": 4992
+        },
+        "created_at": "2025-03-08T16:39:52.022787Z",
+        "updated_at": "2025-03-08T17:30:54.605760Z",
+        "inner_id": 7,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 16,
+        "updated_by": 67807,
+        "comment_authors": []
+    },
+    {
+        "id": 6725,
+        "annotations": [
+            {
+                "id": 47,
+                "completed_by": 67807,
+                "result": [
+                    {
+                        "id": "Bst1TgPSUY",
+                        "type": "labels",
+                        "value": {
+                            "end": 51,
+                            "start": 29,
+                            "labels": [
+                                "opinion"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "id": "RPXk6jbI07",
+                        "type": "labels",
+                        "value": {
+                            "end": 28,
+                            "start": 0,
+                            "labels": [
+                                "aspect"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "tweet_text",
+                        "from_name": "label"
+                    },
+                    {
+                        "type": "relation",
+                        "to_id": "Bst1TgPSUY",
+                        "labels": [
+                            "sent:POS"
+                        ],
+                        "from_id": "RPXk6jbI07",
+                        "direction": "right"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-03-11T04:15:23.424450Z",
+                "updated_at": "2025-03-11T04:15:23.424465Z",
+                "draft_created_at": "2025-03-11T04:14:51.578790Z",
+                "lead_time": 93.152,
+                "prediction": {},
+                "result_count": 3,
+                "unique_id": "94c95191-fe03-4965-83db-1cc62cf863f4",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 6725,
+                "project": 16,
+                "updated_by": 67807,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "size": 51,
+            "text": "https:\/\/dagshub.com\/arsyadafarih72\/transjakarta_TA_project\/raw\/main\/data\/datapoints_five\/row_0007.txt",
+            "media type": "text\/plain"
+        },
+        "meta": {
+            "datapoint_id": 85156099,
+            "datasource_id": 4992
+        },
+        "created_at": "2025-03-08T16:39:52.022816Z",
+        "updated_at": "2025-03-11T04:15:23.486224Z",
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 16,
+        "updated_by": 67807,
+        "comment_authors": []
+    }
+]

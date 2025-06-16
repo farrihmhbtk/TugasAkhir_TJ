@@ -1,0 +1,5 @@
+alhamdulillah busway sepi hehe. keknya rangorang masih pada nongki jam segini.#### #### ####[([1], [2], 'NEU')]
+s21 adalah bus transjakarta paling jelek#### #### ####[([0], [2, 3, 4, 5], 'NEG')]
+dear pt_transjakarta kenapa busway koridor 01 tujuan kota jadi lama banget malam ini tadi di bunsen nunggu lebih dari 30 menit mana desek desekan pengap ngantrinya. biasanya ga se-lama itu. kenapa bisa gitu sih cape banget jadinya#### #### ####[([3, 4, 5], [8, 9, 10], 'NEG'), ([3, 4, 5], [16, 17, 18, 19, 20], 'NEG')]
+gbk dongg.. aduh skip deh jis akses transportnya susah banget gile. jauh dari mana mana juga. gbk tuh misal kesulitan naik busway/ojol/mrt juga jalan aja bareng2 carat yg lain bakalan nyampe juga ke stasiun krl terdekat#### #### ####[([5], [6, 7, 8, 9], 'NEG')]
+bapak2 asu pengen banget gue tonjok titit sama batang lehernya grgr lecehin gue di busway.#### #### ####[([0], [11, 12], 'NEG')]

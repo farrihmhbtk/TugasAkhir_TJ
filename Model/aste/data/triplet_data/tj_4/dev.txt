@@ -1,0 +1,5 @@
+nunggu busway sampe sejam ngapain jug gue ya...#### #### ####[([0, 1], [2, 3], 'NEG')]
+orang indonesia nih tolol2 anjing malah masuk jalur transjakarta bikin lama nunggu bisnya aja. lagian tj udah ada dari lama bgt masih aja nerobos jalur tj dan bikin macet. beli mobil doang otak ga ada#### #### ####[([0, 1], [6, 7, 8], 'NEG')]
+gila cape bgt ngejar tj#### #### ####[([3, 4], [1, 2], 'NEG')]
+sebenernya emang paling males bawa kendaraan ke blok m. motor pun susah cari parkir plus susah keluar kalo malem tapi ya mau gimana jam 10 malam busway mrt krl malah ngurangin armada#### #### ####[([23, 24, 25, 26], [30, 31], 'NEG')]
+6k ngapa dikit bgt dahh?? pt_transjakarta#### #### ####[([0], [2, 3], 'NEG')]
